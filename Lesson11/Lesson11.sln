@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{9BE5B4F3-9619-E3A8-30C1-D72F78266416}") = "Lesson11", "Assembly-CSharp.csproj", "{DF953540-5BAD-7DC1-077B-B335FEB65278}"
+EndProject
+Project("{9BE5B4F3-9619-E3A8-30C1-D72F78266416}") = "Lesson11", "Assembly-CSharp-Editor-firstpass.csproj", "{EEEDB6BE-0C52-4DA1-2254-3591B5D1FBD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF953540-5BAD-7DC1-077B-B335FEB65278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF953540-5BAD-7DC1-077B-B335FEB65278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF953540-5BAD-7DC1-077B-B335FEB65278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF953540-5BAD-7DC1-077B-B335FEB65278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEDB6BE-0C52-4DA1-2254-3591B5D1FBD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEDB6BE-0C52-4DA1-2254-3591B5D1FBD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEDB6BE-0C52-4DA1-2254-3591B5D1FBD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEDB6BE-0C52-4DA1-2254-3591B5D1FBD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
